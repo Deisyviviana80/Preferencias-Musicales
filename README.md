@@ -67,8 +67,7 @@ Comparación de reproducciones por ciudad y día de la semana (lunes, miércoles
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Deisyviviana80/Preferencias-Musicales.git
-   cd nombre-del-repo
+   git clone https://github.com/Deisyviviana80/Preferencias-Musicales
    ```
 
 2. Instala las dependencias:
