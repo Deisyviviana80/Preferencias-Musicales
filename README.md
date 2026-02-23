@@ -67,7 +67,7 @@ Comparación de reproducciones por ciudad y día de la semana (lunes, miércoles
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
+   git clone https://github.com/Deisyviviana80/Preferencias-Musicales.git
    cd nombre-del-repo
    ```
 
